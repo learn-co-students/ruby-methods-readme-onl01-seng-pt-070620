@@ -35,3 +35,18 @@ educational content. Everything from fixing typos, to correcting
 out-dated information, to improving exposition, to adding better examples,
 to fixing tests—all contributions to making the curriculum more effective are
 welcome.
+def say_hello_world_ten_times
+  phrase = "Hello World"
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+end
+say_hello_world_ten_times
+
